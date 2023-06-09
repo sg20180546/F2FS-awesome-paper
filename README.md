@@ -1,6 +1,6 @@
 # Paper related to F2FS SSD
 
-Anyone can contributed to this repository, Please find awesome-papers related to F2FS!!
+Anyone can contribute to this repository, Please find awesome-papers related to F2FS!!
 
 ## 2015
 
