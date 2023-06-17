@@ -26,7 +26,7 @@ Anyone can contribute to this repository, Please find awesome-papers related to 
 
 4. [ZNS: Avoiding the Block Interface Tax for Flash-based SSDs](https://www.pdl.cmu.edu/PDL-FTP/Storage/USENIX_ATC_2021_ZNS.pdf) ATC '21, Matias Bjørling, Abutalib Aghayev, Hans Holmberg, Aravind Ramesh, Damien Le Moal, Gregory R. Ganger, George Amvrosiadis
 
-5 [F2FS의 fsync latency 개선을 위한 file node structure 관리 최적화 기법](http://nyx.skku.ac.kr/wp-content/uploads/2021/12/15-375.pdf), 곽현호, 정지윤, 신동군
+5. [F2FS의 fsync latency 개선을 위한 file node structure 관리 최적화 기법](http://nyx.skku.ac.kr/wp-content/uploads/2021/12/15-375.pdf), 곽현호, 정지윤, 신동군
 
 ## 2022
 
