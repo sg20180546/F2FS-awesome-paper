@@ -32,6 +32,8 @@ Anyone can contribute to this repository, Please find awesome-papers related to 
 
 1. [When F2FS Meets Address Remapping](https://dl.acm.org/doi/pdf/10.1145/3538643.3539755), HotStorage '22, Yongmyung Lee, Jong-Hyeok Park, Jonggyu Park∗, Hyunho Gwak, Dongkun Shin, Young Ik Eom∗∗, Sang-Won Lee∗
 
+2. [IPLFS: Log-Structured File System without Garbage Collection](https://www.usenix.org/system/files/atc22-kim-juwon.pdf), ATC '22, Juwon Kim, Minsu Jang, Muhammad Danish Tehseen, Joontaek Oh,
+and YouJip Won
 
 ## 2023
 1. [An Efficient Order-Preserving Recovery for F2FS with ZNS SSD](https://www.hotstorage.org/2023/accepted.html), HotStorage '23
