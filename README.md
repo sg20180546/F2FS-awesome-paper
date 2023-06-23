@@ -9,8 +9,6 @@ Anyone can contribute to this repository, Please find awesome-papers related to 
 ## 2018
 
 1. [Analysis for the Performance Degradation of fsync()in F2FS](https://dl.acm.org/doi/pdf/10.1145/3183586.3183605?casa_token=dxklS06WWmkAAAAA:1yxAv8lJTkj37EWYxf7_z-poKl6ltzisPu8AI7gl-UFLsJrVmpPmCOOg8Xx9gkOB-3HQU0WtrdIpxAo), IC4E '18, Gyeongyeol Choi, Youjip Won
-2. 
-
 
 ## 2019
 
@@ -27,6 +25,8 @@ Anyone can contribute to this repository, Please find awesome-papers related to 
 4. [ZNS: Avoiding the Block Interface Tax for Flash-based SSDs](https://www.pdl.cmu.edu/PDL-FTP/Storage/USENIX_ATC_2021_ZNS.pdf) ATC '21, Matias Bjørling, Abutalib Aghayev, Hans Holmberg, Aravind Ramesh, Damien Le Moal, Gregory R. Ganger, George Amvrosiadis
 
 5. [F2FS의 fsync latency 개선을 위한 file node structure 관리 최적화 기법](http://nyx.skku.ac.kr/wp-content/uploads/2021/12/15-375.pdf), 곽현호, 정지윤, 신동군
+
+6. [Concurrent File Metadata Structure Using Readers-Writer Lock](https://dl.acm.org/doi/pdf/10.1145/3412841.3441992), SAC '21, CG Lee, S Noh, H Kang, S Hwang, Y Kim
 
 ## 2022
 
